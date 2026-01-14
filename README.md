@@ -9,13 +9,13 @@ Este projeto é uma aplicação Full Stack desenvolvida para facilitar o control
 
 # Tecnologias Utilizadas:
 -- Backend 
-  Python/Django: Framework principal.
-  Django REST Framework: Estruturação da API.
-  SQLite: Banco de dados inicial (Posteriormente será migrado para PostgreSQL).
+  - Python/Django: Framework principal.
+  - Django REST Framework: Estruturação da API.
+  - SQLite: Banco de dados inicial (Posteriormente será migrado para PostgreSQL).
 
 -- Frontend
-  React: Biblioteca de construção da interface
-  CSS: Meta de aplicar o Tailwind
+  - React: Biblioteca de construção da interface
+  - CSS: Meta de aplicar o Tailwind
 
 # Funcionalidades
 - Cadastro de transações 
